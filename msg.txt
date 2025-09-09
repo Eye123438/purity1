@@ -1,0 +1,1 @@
+Finalize Firebase setup, Tailwind/PostCSS fix, and cleaned Next.js config
